@@ -1,6 +1,6 @@
 # CST126_01 - Plastic spoons and strings
 
-**Class ID:** Aunt Beast
+**Class ID:** Ekans
 
 **Assignement ID:** CST126_01
 
@@ -8,6 +8,24 @@
 
 **Notes:**
 
+1) I am able to print out the positions of each letter inputed (cin), however, at the user prompt to enter letters, the letters need to be 
+	separated with a comma without spaces. 
+	i.e. "i, I, w, z, r" would have to be inputted as "i,I,w,z,r"
+	
+	Output:
+	I is in position 1
+	w is in position 3
+	r is in position 9
+	w is in position 12
+	i is in position 13
+	i is in position 24
+	i is in position 33
+	  is in position 45
+
+2) For some reason I commented out an if statement when it sees a character that isn't part of the string as I am having trouble. 
+
+3) Worked all weekeend to get to where I am at. I still need to work on my conditional statements as I am having trouble with them. I can picture how
+	I want my code to work, but I can't code them properly. 
 
 ---
 
